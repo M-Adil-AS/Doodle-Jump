@@ -9,4 +9,4 @@ ArrowUp to shoot, ArrowLeft and ArrowRight to move
 Deployment Link: https://m-adil-as.github.io/Doodle-Jump/
 
 Demo Video:   
-https://user-images.githubusercontent.com/115668271/196476702-01ae3e88-3783-45c9-b357-cfc00d015bcf.mp4
+(https://user-images.githubusercontent.com/115668271/196476702-01ae3e88-3783-45c9-b357-cfc00d015bcf.mp4)
